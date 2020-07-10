@@ -1,7 +1,7 @@
 <img align="right" width="400" src="https://scontent.frao1-1.fna.fbcdn.net/v/t1.0-9/93224574_2933960866680548_7783029130366287872_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_eui2=AeF_l_d3IDkJQBTenB4XKdVpv5RamP4aIWq_lFqY_hohavqPyzbBbMyZattFJ-3cIDzChev7rqIp03Z7ZVMu5yWT&_nc_ohc=7KA4kNqdR-gAX8pypgc&_nc_ht=scontent.frao1-1.fna&oh=ab4cdecf7c14cfdeee2e397629b712cd&oe=5F2E02FE">
 
 
-# Hi, I'm Ronne :chicken:
+# Hi, I'm Ronne
 
 :earth_americas: São Paulo, SP
 
