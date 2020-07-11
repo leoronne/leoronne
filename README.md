@@ -1,14 +1,18 @@
-<img align="right" width="400" src="https://scontent.frao1-1.fna.fbcdn.net/v/t1.0-9/93224574_2933960866680548_7783029130366287872_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_eui2=AeF_l_d3IDkJQBTenB4XKdVpv5RamP4aIWq_lFqY_hohavqPyzbBbMyZattFJ-3cIDzChev7rqIp03Z7ZVMu5yWT&_nc_ohc=7KA4kNqdR-gAX8pypgc&_nc_ht=scontent.frao1-1.fna&oh=ab4cdecf7c14cfdeee2e397629b712cd&oe=5F2E02FE">
-
-
-# Hi, I'm Ronne
+<h2>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɪ'ᴍ ʀᴏɴɴᴇ</h2>
 
 :earth_americas: São Paulo, SP
 
-Engineer | Full-Stack | Product Manager :robot:
+Engineer | Full-Stack Developer | Product Manager 
+
+## Techs :robot:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
 ## Social media :mailbox_with_no_mail:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/leoronne)
-[![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/leoronne)
-[![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/leoronne/)
+[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leoronne/)](https://www.linkedin.com/in/leoronne/)  [![Gmail Badge](https://img.shields.io/badge/-leoronne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoronne@gmail.com)](mailto:leoronne@gmail.com) [![Instagram Badge](https://img.shields.io/twitter/url?color=%23fb3958&label=@leoronne&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/leoronne)  [![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leoronne)](https://twitter.com/leoronne)
+
