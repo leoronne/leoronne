@@ -14,7 +14,11 @@ Engineer | Full-Stack Developer | Product Manager
 
 ## Social media :mailbox_with_no_mail:
 
-[![Linkedin Badge](https://img.shields.io/badge/-leoronne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leoronne/)](https://www.linkedin.com/in/leoronne/)  [![Gmail Badge](https://img.shields.io/badge/-leoronne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoronne@gmail.com)](mailto:leoronne@gmail.com) [![Instagram Badge](https://img.shields.io/twitter/url?color=%23fb3958&label=@leoronne&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/leoronne) 
+[![Gmail Badge](https://img.shields.io/badge/-leoronne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoronne@gmail.com)](mailto:leoronne@gmail.com) 
+<a href="https://www.linkedin.com/in/leoronne" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/leoronne" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/leoronne" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/12183273463" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 ## Stats :trophy:
 
