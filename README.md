@@ -15,7 +15,6 @@
 			![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)
 			![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
 			![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd)
-			<br>
 				![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 				![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 				![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
