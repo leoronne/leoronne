@@ -16,9 +16,8 @@ Engineer | Full-Stack Developer | Product Manager
 
 [![Linkedin Badge](https://img.shields.io/badge/-leoronne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leoronne/)](https://www.linkedin.com/in/leoronne/)  [![Gmail Badge](https://img.shields.io/badge/-leoronne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoronne@gmail.com)](mailto:leoronne@gmail.com) [![Instagram Badge](https://img.shields.io/twitter/url?color=%23fb3958&label=@leoronne&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/leoronne) 
 
+## Stats :trophy:
+
 <p align = "center">
-  
-### Some stats about leoronne
-<img alt="Leonardo Ronne's github stats" src="https://github-readme-stats.vercel.app/api?username=leoronne&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leoronne&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img alt="Leonardo Ronne's github stats" src="https://github-readme-stats.vercel.app/api?username=leoronne&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leoronne&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
