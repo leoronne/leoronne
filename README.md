@@ -3,7 +3,7 @@
 	:earth_americas: São Paulo, SP - Brazil
 	<br/>
 	<br/>
-	<p>Product Manager | Full-Stack Developer | Engineer </p>
+	<p>Product Manager | Frontend Developer | Engineer </p>
 </div>
 <table align="center">
 	<tr>
