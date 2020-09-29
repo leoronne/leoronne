@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-<h2 align="center">Communicate :mailbox_with_mail:</h2>
+<h2 align="center">Connect :mailbox_with_mail:</h2>
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-leoronne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoronne@gmail.com)](mailto:leoronne@gmail.com) 
