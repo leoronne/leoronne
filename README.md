@@ -3,7 +3,7 @@
 	:earth_americas: São Paulo, SP - Brazil
 	<br/>
 	<br/>
-	<p>Product Manager | Front-end Developer | Engineer </p>
+	<p>Front-end Developer | Product Manager | Engineer </p>
 </div>
 <table align="center">
 	<tr>
@@ -34,7 +34,7 @@
 			<p align = "center">
 				<img alt="Leonardo Ronne's github stats" src="https://github-readme-stats.vercel.app/api?username=leoronne&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 			<br>
-				<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leoronne&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">     
+				<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leoronne&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">     
 			</p>
 		</td>
   </tr>
