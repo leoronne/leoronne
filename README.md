@@ -3,7 +3,7 @@
 	:earth_americas: São Paulo, SP - Brazil
 	<br/>
 	<br/>
-	<p>Lead Front-end Developer (React) | Squad Leader | Product Manager</p>
+	<p>Front-end Developer (React) | Product Manager</p>
 </div>
 <table align="center">
 	<tr>
