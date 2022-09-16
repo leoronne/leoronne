@@ -3,7 +3,7 @@
 	:earth_americas: São Paulo, SP - Brazil
 	<br/>
 	<br/>
-	<p>Front-end Engineer</p>
+	<p>Senior Software Engineer</p>
 </div>
 <table align="center">
 	<tr>
